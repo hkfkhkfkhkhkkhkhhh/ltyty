@@ -1,0 +1,24 @@
+body {
+    background-color: PaleGreen;
+}
+main h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    color: forestgreen;
+    text-decoration: underline;
+}
+main p {
+    font-size: 30px;
+    text-align: center;
+    color: DarkGreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+main img {
+    text-align: center;
+    width: 1400px;
+    border: 3px solid DarkOliveGreen;
+}
+footer img {
+    height: 100px;
+}
